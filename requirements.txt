@@ -1,0 +1,5 @@
+numpy
+pandas
+git+https://github.com/suakow/tvdatafeed
+aiomultiprocess
+joblib
